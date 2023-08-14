@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+input[type="text"] {
+  margin-right: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid #ccc;
+}
+
+input[type="button"] {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  border: none;
+  background-color: #0077cc;
+  color: #fff;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: #005fa3;
+}
